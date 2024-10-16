@@ -56,3 +56,7 @@ The publication fee is charges in two parts:
 The publication fees are **not** a guarantee of publication. We will not refund the initial fee if the manuscript is not accepted for publication, if the authors decide to withdraw the manuscript, or if the authors do not agree with the requested changes.
 
 The payment is made through [Wise](https://wise.com), a secure payment platform. The journal will provide the payment details internally.
+
+## License
+
+Copyright &copy; 2024 Mauricio "Pacha" Vargas Sepulveda. This is an open access template distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
