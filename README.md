@@ -6,7 +6,7 @@
 
 Prepare your manuscript using the [LaTeX template](https://github.com/replication-studies/latex-template).
 
-## Step Two
+### Step Two
 
 Fork [this](https://github.com/replication-studies/submissions) repository to your GitHub account.
 
@@ -43,6 +43,8 @@ If the reviewer consideres the manuscript is acceptable, there may be requested 
 ## Acceptance
 
 Once the reviewer considers the manuscript is ready, it will be accepted for publication and it will get a DOI number. The article will appear [here](https://github.com/replication-studies/articles).
+
+The articles will be available under the Creative Commons Attribution License. Check the details [here](https://choosealicense.com/licenses/cc-by-4.0/).
 
 ## Payment
 
